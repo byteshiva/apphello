@@ -1,0 +1,2 @@
+# kickstartandroidapp
+sample android app
